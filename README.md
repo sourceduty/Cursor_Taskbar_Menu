@@ -1,6 +1,6 @@
 ## Cursor_Taskbar_Menu
 
-🖱️ Software concept for a cursor toolbar and menu.
+🖱️ Software concept for a cursor taskbar and menu.
 
 ## CONCEPT
 
