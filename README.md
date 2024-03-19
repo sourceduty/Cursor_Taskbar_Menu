@@ -6,4 +6,4 @@
 
 Access a hidden desktop taskbar menu attached to the cursor by rapidly moving the cursor up and down.
 
-![Cursor_Taskbar_Menu_Image](https://github.com/sourceduty/Cursor_Taskbar_Menu/assets/123030236/74ae9d92-c102-4eab-a8cb-952c9146728f)
+![Cursor Taskbar Menu](https://github.com/sourceduty/Cursor_Taskbar_Menu/assets/123030236/a17a2de4-1a59-4362-ace7-34629f96873a)
